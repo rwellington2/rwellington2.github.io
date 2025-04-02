@@ -1,0 +1,36 @@
+body{
+  background-color: antiquewhite;
+}
+.theader{
+    text-align: center;
+    /*background-color:rgb(194, 219, 242);*/
+    background-image: linear-gradient(to bottom right, rgb(20, 139, 242), rgb(224, 230, 234),skyblue);
+    padding: 0;
+    margin: 0%;
+    font-family: 'Abril Fatface', serif;
+    color: rgb(3, 3, 119);
+}
+table, th, td {
+    border: 2px solid rgb(9, 9, 9);
+    width: 90%;
+    margin: 20px 100px 80px 50px;
+    border-collapse: collapse;
+    
+  }
+  h1, h2{
+    text-align: center;
+  }
+
+  .tag{
+   width: 10px;
+    
+  }
+  .name{
+
+    width: 10px;
+   
+  }
+  .descp{
+    
+    width: 90px;
+  }
